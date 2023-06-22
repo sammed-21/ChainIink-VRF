@@ -12,8 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-
-Deployed Contract Address: 0x8f139F7Fe88C6cc9A7A662d280096D69F773012f
+Deployed Contract Address:  
 Sleeping.....
 Nothing to compile
 Successfully submitted source code for contract
